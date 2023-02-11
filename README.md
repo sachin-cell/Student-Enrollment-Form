@@ -8,11 +8,7 @@ It is a student registration form that stores the user's data in JSONPowerDB. It
 
 ## Benefits of using JsonPowerDB
 
-- Can store structured / semi-structured and unstructured data along with other types of files and big-data.
-- Dynamic relational constraints while using CRUD operations. i.e. Relational data can be managed without pre-defining PK, FK, UK, databases, tables etc.
-- Free from technology constraints - Low-Code and easy to use from any technology via HTTP Rest AP
-- Minimum learning curves, builds faster, cuts time to market, reduces the development cost.
-- Helps developers in managing their databases using various tools and techniques.
+JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database. Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
 
 
 ## Release History
@@ -70,12 +66,4 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 
 ## Screenshots
 
-![PC View1](https://i.ibb.co/MnTPjzC/1.png)
-
-![PC View2](https://i.ibb.co/XFNXybp/2.png)
-
-### Mobile View
-
-![PC View2](https://i.ibb.co/1qwsbVb/3.png)
-
-
+![Screenshot 2023-02-11 at 8 32 16 AM](https://user-images.githubusercontent.com/68723524/218237067-0e804497-97b2-430b-a747-1674e6b95ce0.png)
